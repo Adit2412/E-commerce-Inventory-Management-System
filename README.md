@@ -7,7 +7,7 @@ Features
 • Check available stock
 
 Getting Started
-• Clone the repository: git clone https://github.com/your-username/inventory-management-system.git
+• Clone the repository: git clone https://github.com/Adit2412/E-commerce-Inventory-Management-System
 
 • Set up Java environment with JDK.
 
